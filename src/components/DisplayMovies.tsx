@@ -2,6 +2,15 @@ import React from 'react'
 
 export default function DisplayMovies() {
   return (
-    <div>DisplayMovies</div>
+    <div className='right-side'>
+        <div className='search'>
+
+        </div>
+
+        <div className='movies'>
+
+        </div>
+
+    </div>
   )
 }
