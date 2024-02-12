@@ -86,7 +86,6 @@ export default function MovieForm() {
                         let minSting = String(min);
                         minSting = minSting.concat("h");
                         setDuration(minSting);
-                        <time className="slee"></time>
                         console.log(duration); 
 
 
